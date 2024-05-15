@@ -1,8 +1,4 @@
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Installation
 
 ```bash
@@ -24,6 +20,3 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## License
-
-Nest is [MIT licensed](LICENSE).
